@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 Ich heiße Franz Gustav.
+
+
+
+
+
+
+
+
+
+
+
+Lul...
+>>>>>>> 50b6c07e64705def415af945545aa3742c52a241
